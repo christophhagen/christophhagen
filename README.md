@@ -1,5 +1,3 @@
-## Christoph Hagen
-
 I'm a passionate programmer/engineer/scientist who likes to try new things, currently based in Munich, Germany.
 
 My main interests in no particular order:
