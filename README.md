@@ -14,7 +14,7 @@ You can find some of my other projects on my website [**christophhagen.de**](htt
 
 ### Repositories
 
-Most of my repositories are written in/for Swift, because it's a very modern, safe, and versatile language that allows me to do most things.
+Most of my repositories are written in/for Swift, because it's a very modern, safe, and versatile language.
 
 - [BinaryCodable](https://github.com/christophhagen/BinaryCodable) is a binary encoder/decoder for Swift `Codable` types
 - [HealthKitExtensions](https://github.com/christophhagen/HealthKitExtensions) makes it easier to work with Apple HealthKit 
