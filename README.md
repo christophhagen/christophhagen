@@ -17,7 +17,8 @@ You can find some of my other projects on my website [**christophhagen.de**](htt
 Most of my repositories are written in/for Swift, because it's a very modern, safe, and versatile language.
 
 - [BinaryCodable](https://github.com/christophhagen/BinaryCodable) is a binary encoder/decoder for Swift `Codable` types
-- [HealthKitExtensions](https://github.com/christophhagen/HealthKitExtensions) makes it easier to work with Apple HealthKit 
+- [HealthKitExtensions](https://github.com/christophhagen/HealthKitExtensions) makes it easier to work with Apple HealthKit
+- [HealthDB](https://github.com/christophhagen/HealthDB) is an interface to the Health database from an iOS Backup (healthdb_secure.sqlite)
 - [Clairvoyant](https://github.com/christophhagen/Clairvoyant) is a simple metrics system for logging and remote monitoring
 - [SwiftSerial](https://github.com/christophhagen/SwiftSerial) allows using a Linux serial port in Swift
 - [Daly-Swift](https://github.com/christophhagen/Daly-Swift), [NextcloudStatus](https://github.com/christophhagen/NextcloudStatus) and [Growatt-Swift](https://github.com/christophhagen/Growatt-Swift) are interfaces to devices
